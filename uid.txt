@@ -1,0 +1,8 @@
+String uid = "20005bda63f95539c426f99bfe1b7cd82c843";
+
+
+
+http://localhost:8038/promotiongroup/promotion-group!input.action?id=58
+
+
+http://localhost:8038/promotiongroup/promotion-group!input.action?pid=90
